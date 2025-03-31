@@ -1,0 +1,8 @@
+* use msfconsole tool 
+* search smtp or the command show on the version when using nmap to find vulubility
+* enter (use and the number of loophole exposed)
+* show options
+* set RHOSTS ip address
+* exploit
+* hostname 
+* ifconfig
